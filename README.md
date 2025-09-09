@@ -21,11 +21,12 @@ Here are some ideas to get you started:
 👯 I’m looking to collaborate on Full Stack and Generative AI Projects.<br>
 💬 Ask me about <b>Python, Django, Flask, Full Stack, Generative AI</b>.<br>
 📫 How to reach me aniweshkumar27@gmail.com
+⚡ Fun fact: I debug faster with music playing in the background.
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniweshkumar27) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@aniweshkumar27) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniweshkumar27@gmail.com) 
 
-## 🧑‍💻 Coding Profiles:
+# 🧑‍💻 Coding Profiles:
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/themaverick27/) 
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/themaverick27/) 
 [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/aniweshkumar27) 
