@@ -1,5 +1,5 @@
 <h1 align="center">Aniwesh Kumar</b></h1>
-<h3 align="center">Full Stack Mobile App Developer - building from scratch</h3>
+<h3 align="center">Full Stack Engineer - building from scratch</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aniweshkumar27/" target="_blank">linkedin</a> •
