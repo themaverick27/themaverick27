@@ -336,7 +336,7 @@ MAQ Software — Associate Software Engineer
 font-size="10"
 fill="var(--muted)"
 text-anchor="end">
-2025 - 2026
+Nov 2025 - Jul 2026
 </text>
 
 <text x="32" y="576"
@@ -359,13 +359,13 @@ Pave AI — Flutter Developer Intern
 font-size="10"
 fill="var(--muted)"
 text-anchor="end">
-2025
+Jun 2025 - Aug 2025
 </text>
 
 <text x="32" y="612"
 font-size="10"
 fill="var(--muted)">
-mobile development · flutter frontend · firebase backend · responsive ui desing
+mobile development · flutter frontend · firebase backend · responsive ui design
 </text>
 
 
@@ -465,80 +465,6 @@ fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
 
 <line x1="32" y1="724" x2="648" y2="724"
 stroke="var(--border)" stroke-width="0.5"/>
-
-  <!-- ==================== LINKS ==================== -->
-
-<line x1="32" y1="742" x2="648" y2="742"
-      stroke="var(--border)" stroke-width="0.5"/>
-
-<text x="32" y="762"
-      font-size="9"
-      fill="var(--muted)"
-      letter-spacing="2"
-      font-weight="500">
-  CONNECT
-</text>
-
-<a href="https://www.linkedin.com/in/aniweshkumar27/">
-  <text x="32" y="784"
-        font-size="10"
-        fill="var(--muted)"
-        letter-spacing="0.3">
-    linkedin
-  </text>
-</a>
-
-<text x="104" y="784"
-      font-size="10"
-      fill="var(--muted)">·</text>
-
-<a href="https://github.com/themaverick27">
-  <text x="122" y="784"
-        font-size="10"
-        fill="var(--muted)"
-        letter-spacing="0.3">
-    github
-  </text>
-</a>
-
-<text x="190" y="784"
-      font-size="10"
-      fill="var(--muted)">·</text>
-
-<a href="https://x.com/aniiiiiii27_">
-  <text x="208" y="784"
-        font-size="10"
-        fill="var(--muted)"
-        letter-spacing="0.3">
-    twitter
-  </text>
-</a>
-
-<text x="276" y="784"
-      font-size="10"
-      fill="var(--muted)">·</text>
-
-<a href="https://leetcode.com/u/themaverick27/">
-  <text x="294" y="784"
-        font-size="10"
-        fill="var(--muted)"
-        letter-spacing="0.3">
-    leetcode
-  </text>
-</a>
-
-<text x="372" y="784"
-      font-size="10"
-      fill="var(--muted)">·</text>
-
-<a href="https://medium.com/@aniweshkumar27">
-  <text x="390" y="784"
-        font-size="10"
-        fill="var(--muted)"
-        letter-spacing="0.3">
-    medium
-  </text>
-</a>
 
 </svg>
 
