@@ -1,0 +1,544 @@
+<svg viewBox="0 0 680 820" xmlns="http://www.w3.org/2000/svg"
+font-family="'SF Mono', 'Fira Code', 'Cascadia Code', monospace">
+
+<style>
+:root {
+  --bg: #ffffff;
+  --bg1: #f6f8fa;
+  --border: #d0d7de;
+  --text: #1f2328;
+  --muted: #656d76;
+  --tag-bg: #f6f8fa;
+  --tag-border: #d0d7de;
+}
+
+@media (prefers-color-scheme: dark) {
+:root {
+  --bg: #0d1117;
+  --bg1: #161b22;
+  --border: #30363d;
+  --text: #e6edf3;
+  --muted: #8b949e;
+  --tag-bg: #161b22;
+  --tag-border: #30363d;
+}
+}
+</style>
+
+<!-- background -->
+<rect width="680" height="820" fill="var(--bg)"/>
+
+
+<!-- ==================== HEADER ==================== -->
+
+<text x="32" y="44"
+font-size="13"
+font-weight="500"
+fill="var(--text)"
+letter-spacing="1.5">
+aniwesh kumar
+</text>
+
+<text x="32" y="62"
+font-size="11"
+fill="var(--muted)"
+letter-spacing="0.5">
+software engineer · full-stack · backend · ai · building end-to-end
+</text>
+
+<line x1="32" y1="78" x2="648" y2="78"
+stroke="var(--border)" stroke-width="0.5"/>
+
+
+<!-- ==================== SELECTED WORK ==================== -->
+
+<text x="32" y="98"
+font-size="9"
+fill="var(--muted)"
+letter-spacing="2"
+font-weight="500">
+SELECTED WORK
+</text>
+
+<rect x="32" y="110"
+width="616"
+height="390"
+fill="none"
+stroke="var(--border)"
+stroke-width="0.5"/>
+
+<line x1="340" y1="110" x2="340" y2="500"
+stroke="var(--border)" stroke-width="0.5"/>
+
+<line x1="32" y1="240" x2="648" y2="240"
+stroke="var(--border)" stroke-width="0.5"/>
+
+<line x1="32" y1="370" x2="648" y2="370"
+stroke="var(--border)" stroke-width="0.5"/>
+
+
+<!-- ==================== STREAMLY ==================== -->
+
+<text x="48" y="136"
+font-size="11.5"
+font-weight="500"
+fill="var(--text)"
+letter-spacing="0.3">
+streamly
+</text>
+
+<text x="48" y="154" font-size="10" fill="var(--muted)">
+scalable video streaming platform with secure
+</text>
+
+<text x="48" y="168" font-size="10" fill="var(--muted)">
+authentication, transcoding, adaptive bitrate
+</text>
+
+<text x="48" y="182" font-size="10" fill="var(--muted)">
+streaming, caching and cloud video delivery.
+</text>
+
+<!-- tags -->
+<rect x="48" y="196" width="52" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="74" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">python</text>
+
+<rect x="106" y="196" width="58" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="135" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">fastapi</text>
+
+<rect x="170" y="196" width="42" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="191" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">aws</text>
+
+<rect x="218" y="196" width="60" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="248" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">postgres</text>
+
+<rect x="284" y="196" width="50" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="309" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">docker</text>
+
+
+<!-- ==================== SCRIBEO ==================== -->
+
+<text x="356" y="136"
+font-size="11.5"
+font-weight="500"
+fill="var(--text)"
+letter-spacing="0.3">
+scribeo
+</text>
+
+<text x="356" y="154" font-size="10" fill="var(--muted)">
+full-stack blogging platform with authentication,
+</text>
+
+<text x="356" y="168" font-size="10" fill="var(--muted)">
+blog publishing, user authorization and content
+</text>
+
+<text x="356" y="182" font-size="10" fill="var(--muted)">
+management through a clean responsive interface.
+</text>
+
+<!-- tags -->
+<rect x="356" y="196" width="52" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="382" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">python</text>
+
+<rect x="414" y="196" width="54" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="441" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">django</text>
+
+<rect x="474" y="196" width="64" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="506" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">bootstrap</text>
+
+
+<!-- ==================== SOCIAL ==================== -->
+
+<text x="48" y="266"
+font-size="11.5"
+font-weight="500"
+fill="var(--text)"
+letter-spacing="0.3">
+social
+</text>
+
+<text x="48" y="284" font-size="10" fill="var(--muted)">
+responsive mobile social networking application
+</text>
+
+<text x="48" y="298" font-size="10" fill="var(--muted)">
+with user profiles, real-time interactions and
+</text>
+
+<text x="48" y="312" font-size="10" fill="var(--muted)">
+Firebase-powered backend integration.
+</text>
+
+<!-- tags -->
+<rect x="48" y="326" width="42" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="69" y="338" font-size="9" fill="var(--muted)" text-anchor="middle">dart</text>
+
+<rect x="96" y="326" width="54" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="123" y="338" font-size="9" fill="var(--muted)" text-anchor="middle">flutter</text>
+
+<rect x="156" y="326" width="58" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="185" y="338" font-size="9" fill="var(--muted)" text-anchor="middle">firebase</text>
+
+<rect x="220" y="326" width="76" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="258" y="338" font-size="9" fill="var(--muted)" text-anchor="middle">mobile-app</text>
+
+
+<!-- ==================== EVENTHUB ==================== -->
+
+<text x="356" y="266"
+font-size="11.5"
+font-weight="500"
+fill="var(--text)"
+letter-spacing="0.3">
+eventhub
+</text>
+
+<text x="356" y="284" font-size="10" fill="var(--muted)">
+event booking application for discovering nearby
+</text>
+
+<text x="356" y="298" font-size="10" fill="var(--muted)">
+events, searching by category, ticket booking and
+</text>
+
+<text x="356" y="312" font-size="10" fill="var(--muted)">
+secure Stripe payments with an admin panel.
+</text>
+
+<!-- tags -->
+<rect x="356" y="326" width="54" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="383" y="338" font-size="9" fill="var(--muted)" text-anchor="middle">flutter</text>
+
+<rect x="416" y="326" width="58" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="445" y="338" font-size="9" fill="var(--muted)" text-anchor="middle">firebase</text>
+
+<rect x="480" y="326" width="42" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="501" y="338" font-size="9" fill="var(--muted)" text-anchor="middle">stripe</text>
+
+<rect x="528" y="326" width="54" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="555" y="338" font-size="9" fill="var(--muted)" text-anchor="middle">mobile-app</text>
+
+
+<!-- ==================== SMART ATS TRACKER ==================== -->
+
+<text x="48" y="396"
+font-size="11.5"
+font-weight="500"
+fill="var(--text)"
+letter-spacing="0.3">
+smart ats tracker
+</text>
+
+<text x="48" y="414" font-size="10" fill="var(--muted)">
+ai-powered resume analyzer that evaluates resumes,
+</text>
+
+<text x="48" y="428" font-size="10" fill="var(--muted)">
+extracts relevant keywords and provides actionable
+</text>
+
+<text x="48" y="442" font-size="10" fill="var(--muted)">
+insights to improve ATS compatibility.
+</text>
+
+<!-- tags -->
+<rect x="48" y="456" width="64" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="80" y="468" font-size="9" fill="var(--muted)" text-anchor="middle">python</text>
+
+<rect x="118" y="456" width="52" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="144" y="468" font-size="9" fill="var(--muted)" text-anchor="middle">streamlit</text>
+
+<rect x="176" y="456" width="56" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="204" y="468" font-size="9" fill="var(--muted)" text-anchor="middle">gemini ai</text>
+
+
+<!-- ==================== TWEETCENTER ==================== -->
+
+<text x="356" y="396"
+font-size="11.5"
+font-weight="500"
+fill="var(--text)"
+letter-spacing="0.3">
+tweetcenter
+</text>
+
+<text x="356" y="414" font-size="10" fill="var(--muted)">
+twitter-like full-stack application with secure
+</text>
+
+<text x="356" y="428" font-size="10" fill="var(--muted)">
+authentication, tweet CRUD, image uploads and
+</text>
+
+<text x="356" y="442" font-size="10" fill="var(--muted)">
+user-based authorization for content management.
+</text>
+
+<!-- tags -->
+<rect x="356" y="456" width="52" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="382" y="468" font-size="9" fill="var(--muted)" text-anchor="middle">python</text>
+
+<rect x="414" y="456" width="54" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="441" y="468" font-size="9" fill="var(--muted)" text-anchor="middle">django</text>
+
+<rect x="474" y="456" width="54" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="501" y="468" font-size="9" fill="var(--muted)" text-anchor="middle">bootstrap</text>
+
+
+<!-- ==================== EXPERIENCE ==================== -->
+
+<line x1="32" y1="520" x2="648" y2="520"
+stroke="var(--border)" stroke-width="0.5"/>
+
+<text x="32" y="540"
+font-size="9"
+fill="var(--muted)"
+letter-spacing="2"
+font-weight="500">
+EXPERIENCE
+</text>
+
+
+<!-- MAQ SOFTWARE -->
+
+<text x="32" y="562"
+font-size="11"
+font-weight="500"
+fill="var(--text)">
+MAQ Software — Associate Software Engineer
+</text>
+
+<text x="636" y="562"
+font-size="10"
+fill="var(--muted)"
+text-anchor="end">
+2025 - 2026
+</text>
+
+<text x="32" y="576"
+font-size="10"
+fill="var(--muted)">
+data analysis · data validation · ETL/ELT · production support · data engineering
+</text>
+
+
+<!-- PAVE AI -->
+
+<text x="32" y="598"
+font-size="11"
+font-weight="500"
+fill="var(--text)">
+Pave AI — Flutter Developer Intern
+</text>
+
+<text x="636" y="598"
+font-size="10"
+fill="var(--muted)"
+text-anchor="end">
+2025
+</text>
+
+<text x="32" y="612"
+font-size="10"
+fill="var(--muted)">
+mobile development · flutter frontend · firebase backend · responsive ui desing
+</text>
+
+
+<!-- ==================== STACK ==================== -->
+
+<line x1="32" y1="632" x2="648" y2="632"
+stroke="var(--border)" stroke-width="0.5"/>
+
+<text x="32" y="652"
+font-size="9"
+fill="var(--muted)"
+letter-spacing="2"
+font-weight="500">
+STACK
+</text>
+
+
+<!-- row 1 -->
+
+<rect x="32" y="664" width="42" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="53" y="676" font-size="9" fill="var(--muted)" text-anchor="middle">c++</text>
+
+<rect x="80" y="664" width="52" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="106" y="676" font-size="9" fill="var(--muted)" text-anchor="middle">python</text>
+
+<rect x="138" y="664" width="42" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="159" y="676" font-size="9" fill="var(--muted)" text-anchor="middle">dart</text>
+
+<rect x="186" y="664" width="42" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="207" y="676" font-size="9" fill="var(--muted)" text-anchor="middle">sql</text>
+
+<rect x="234" y="664" width="54" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="261" y="676" font-size="9" fill="var(--muted)" text-anchor="middle">flutter</text>
+
+<rect x="294" y="664" width="54" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="321" y="676" font-size="9" fill="var(--muted)" text-anchor="middle">django</text>
+
+<rect x="354" y="664" width="58" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="383" y="676" font-size="9" fill="var(--muted)" text-anchor="middle">fastapi</text>
+
+<rect x="418" y="664" width="58" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="447" y="676" font-size="9" fill="var(--muted)" text-anchor="middle">firebase</text>
+
+<rect x="482" y="664" width="68" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="516" y="676" font-size="9" fill="var(--muted)" text-anchor="middle">postgresql</text>
+
+
+<!-- row 2 -->
+
+<rect x="32" y="686" width="42" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="53" y="698" font-size="9" fill="var(--muted)" text-anchor="middle">aws</text>
+
+<rect x="80" y="686" width="56" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="108" y="698" font-size="9" fill="var(--muted)" text-anchor="middle">docker</text>
+
+<rect x="142" y="686" width="64" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="174" y="698" font-size="9" fill="var(--muted)" text-anchor="middle">bootstrap</text>
+
+<rect x="212" y="686" width="48" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="236" y="698" font-size="9" fill="var(--muted)" text-anchor="middle">html</text>
+
+<rect x="266" y="686" width="42" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="287" y="698" font-size="9" fill="var(--muted)" text-anchor="middle">css</text>
+
+<rect x="314" y="686" width="42" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="335" y="698" font-size="9" fill="var(--muted)" text-anchor="middle">git</text>
+
+<rect x="362" y="686" width="54" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="389" y="698" font-size="9" fill="var(--muted)" text-anchor="middle">github</text>
+
+<rect x="422" y="686" width="88" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="466" y="698" font-size="9" fill="var(--muted)" text-anchor="middle">android studio</text>
+
+<rect x="516" y="686" width="76" height="16" rx="2"
+fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="554" y="698" font-size="9" fill="var(--muted)" text-anchor="middle">claude code</text>
+
+
+<!-- bottom divider -->
+
+<line x1="32" y1="724" x2="648" y2="724"
+stroke="var(--border)" stroke-width="0.5"/>
+
+  <!-- ==================== LINKS ==================== -->
+
+<line x1="32" y1="742" x2="648" y2="742"
+      stroke="var(--border)" stroke-width="0.5"/>
+
+<text x="32" y="762"
+      font-size="9"
+      fill="var(--muted)"
+      letter-spacing="2"
+      font-weight="500">
+  CONNECT
+</text>
+
+<a href="https://www.linkedin.com/in/aniweshkumar27/">
+  <text x="32" y="784"
+        font-size="10"
+        fill="var(--muted)"
+        letter-spacing="0.3">
+    linkedin
+  </text>
+</a>
+
+<text x="104" y="784"
+      font-size="10"
+      fill="var(--muted)">·</text>
+
+<a href="https://github.com/themaverick27">
+  <text x="122" y="784"
+        font-size="10"
+        fill="var(--muted)"
+        letter-spacing="0.3">
+    github
+  </text>
+</a>
+
+<text x="190" y="784"
+      font-size="10"
+      fill="var(--muted)">·</text>
+
+<a href="https://x.com/aniiiiiii27_">
+  <text x="208" y="784"
+        font-size="10"
+        fill="var(--muted)"
+        letter-spacing="0.3">
+    twitter
+  </text>
+</a>
+
+<text x="276" y="784"
+      font-size="10"
+      fill="var(--muted)">·</text>
+
+<a href="https://leetcode.com/u/themaverick27/">
+  <text x="294" y="784"
+        font-size="10"
+        fill="var(--muted)"
+        letter-spacing="0.3">
+    leetcode
+  </text>
+</a>
+
+<text x="372" y="784"
+      font-size="10"
+      fill="var(--muted)">·</text>
+
+<a href="https://medium.com/@aniweshkumar27">
+  <text x="390" y="784"
+        font-size="10"
+        fill="var(--muted)"
+        letter-spacing="0.3">
+    medium
+  </text>
+</a>
+
+</svg>
+
